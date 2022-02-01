@@ -1,2 +1,3 @@
 # ffmpeg-binary
-Binary distribution of FFMPEG for Linux systems.
+
+A mirror of John Van Sickle's [FFmpeg static builds](https://johnvansickle.com/ffmpeg/)
